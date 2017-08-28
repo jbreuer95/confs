@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/opt/whatsapp-desktop/resources/app/assets/icon/icon@2x.png
+Name[en_US]=Whatsapp
+Exec=/usr/local/bin/WhatsApp
+Name=Whatsapp
+Icon=/opt/whatsapp-desktop/resources/app/assets/icon/icon@2x.png
+StartupWMClass=whatsapp-desktop
