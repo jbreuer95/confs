@@ -1,0 +1,3 @@
+alias windows="sudo grub-reboot Windows"
+alias passwd5="hsxkpasswd -p XKCD | xclip -selection clipboard"
+alias passwd="hsxkpasswd | xclip -selection clipboard"
