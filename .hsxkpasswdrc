@@ -17,6 +17,6 @@
     },
     "default_entropy_warnings" : "BLIND",
     "default_dictionary" : {
-        "file" : "/home/jelle/Code/dutch-most-used-2000-cleaned"
+        "file" : "/home/jelle/.words"
     }
 }
